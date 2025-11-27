@@ -33,8 +33,7 @@ I love turning ideas into real products using:
 ## 🧠 Technical Skills
 
 ### **Backend**
-Node.js, NestJS, Python, FastAPI, Flask, Java, Kafka, PostgreSQL, MongoDB, REST APIs,  
-JWT Authentication, Bcrypt
+Node.js, NestJS, Python, FastAPI, Flask, Java, Kafka, PostgreSQL, MongoDB, REST APIs, JWT Authentication, Bcrypt
 
 ### **Frontend**  
 React, TypeScript, JavaScript, Redux, Material UI, Tailwind CSS, HTML5/CSS3  
