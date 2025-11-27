@@ -11,8 +11,7 @@ I build production-grade AI systems, fast backend services, and scalable microse
 ---
 
 ## 🚀 About Me
-I'm a software engineer focused on designing and building **AI-powered applications**,  
-**RAG pipelines**, **LLM-based agents**, and **high-performance backend systems**.
+I'm a software engineer focused on designing and building **AI-powered applications**, **RAG pipelines**, **LLM-based agents**, and **high-performance backend systems**.
 
 I love turning ideas into real products using:
 - LLMs, embeddings, vector search  
