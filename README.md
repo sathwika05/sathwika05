@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sathwika Parshaboina 👋</h1>
 
 <p align="center">
-AI Engineer • Backend Engineer • Full-Stack Developer  
+• AI Engineer • Backend Engineer • Full-Stack Developer  
 </p>
 
 <p align="center">
