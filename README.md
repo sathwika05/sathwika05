@@ -54,22 +54,6 @@ Git, GitHub, GitLab, Agile/Scrum, Documentation
 
 ---
 
-## 📌 Featured AI Projects
-
-### 🎬 **AI-Vid**
-LLM-powered RAG system using LangChain + pgvector for instant transcript answers  
-➡️ *Cuts analysis time by 90%*
-
-### 📨 **AI Task Management System**
-Gemini auto-triage • JWT Auth • Inngest async workflows • Mailtrap alerts  
-➡️ *60% faster task resolution*
-
-### 📄 **AI DocCrawler**
-Autonomous crawler + RAG search using LangChain + Pinecone  
-➡️ *90% faster semantic search*
-
----
-
 ## 📬 Contact
 - **Email:** sathwikap25@gmail.com  
 - **Portfolio:** https://sathwikap.com  
