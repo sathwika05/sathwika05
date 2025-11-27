@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sathwika Parshaboina 👋</h1>
 
-<!--
-**sathwika05/sathwika05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+AI Engineer • Backend Engineer • Full-Stack Developer  
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+I build production-grade AI systems, fast backend services, and scalable microservices.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+I'm a software engineer focused on designing and building **AI-powered applications**,  
+**RAG pipelines**, **LLM-based agents**, and **high-performance backend systems**.
+
+I love turning ideas into real products using:
+- LLMs, embeddings, vector search  
+- Node.js, NestJS, FastAPI, Python  
+- AWS, Kubernetes, Docker  
+- Event-driven workflows & async pipelines  
+
+---
+
+## 🔭 Current Projects
+- **AI-Vid** — RAG-powered video intelligence engine  
+- **AI Task Management System** — LLM auto-triage + async workflows  
+- **AI DocCrawler** — autonomous documentation crawler  
+- Agentic AI applications using LangChain  
+- High-performance APIs in Python + TypeScript  
+
+---
+
+## 🧠 Technical Skills
+
+### **Backend**
+Node.js, NestJS, Python, FastAPI, Flask, Java, Kafka, PostgreSQL, MongoDB, REST APIs,  
+JWT Authentication, Bcrypt
+
+### **Frontend**  
+React, TypeScript, JavaScript, Redux, Material UI, Tailwind CSS, HTML5/CSS3  
+
+### **AI / LLM**
+LangChain, RAG, OpenAI, Gemini, Pinecone, pgvector  
+
+### **Testing / Quality**
+Jest, Cypress, ESLint, Prettier, Postman, Unit & Integration Testing  
+
+### **DevOps & Deployment**
+AWS, Kubernetes, Docker, NGINX, Concourse CI/CD, ArgoCD, Jenkins, Bitbucket  
+
+### **Collaboration**
+Git, GitHub, GitLab, Agile/Scrum, Documentation  
+
+---
+
+## 📌 Featured AI Projects
+
+### 🎬 **AI-Vid**
+LLM-powered RAG system using LangChain + pgvector for instant transcript answers  
+➡️ *Cuts analysis time by 90%*
+
+### 📨 **AI Task Management System**
+Gemini auto-triage • JWT Auth • Inngest async workflows • Mailtrap alerts  
+➡️ *60% faster task resolution*
+
+### 📄 **AI DocCrawler**
+Autonomous crawler + RAG search using LangChain + Pinecone  
+➡️ *90% faster semantic search*
+
+---
+
+## 📬 Contact
+- **Email:** sathwikap25@gmail.com  
+- **Portfolio:** https://sathwikap.com  
+- **LinkedIn:** https://linkedin.com/in/sathwikaparshaboina  
+- **GitHub:** https://github.com/sathwika05  
+
+---
+
+## 🤝 Open to Collaborations
+- AI/LLM & RAG systems  
+- Backend & microservices engineering  
+- Automation workflows  
+- Open-source projects  
